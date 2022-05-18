@@ -1,2 +1,1 @@
-# brute
-brute subdomain
+# FastBrute
